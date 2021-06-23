@@ -78,12 +78,12 @@ header{
 }
 @media (max-width:350px){
 	.join{
-		margin: 85px 0 0 00px;
+		margin: 180px 0 0 00px;
 	}
 }
 @media (max-width:360px){
 	.join{
-		margin: 115px 0 0 00px;
+		margin: 180px 0 0 00px;
 	}
 }
 @media (max-width:294px){
@@ -129,6 +129,12 @@ header{
 @media (max-width:310px){
 	.imglg{
 		margin: 0px 0px 0 20px;
+		text-align: center;
+	}
+}
+@media (max-width:395px){
+	.imglg{
+		margin: 0px 10px 0 -15px;
 		text-align: center;
 	}
 }
